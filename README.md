@@ -1,0 +1,2 @@
+# CMS
+school managment system 
